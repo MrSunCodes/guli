@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="242389f5-4b12-44de-8454-c5479a3fc058" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XKFRQis8Sd1VLT8S0B2qPfaAPB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FoodProductManagementSystem" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EduApplication">
+    <configuration name="CodeGenerator.genCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guli-microservice-edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guli.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guli.edu" />
+      <option name="MAIN_CLASS_NAME" value="com.guli.edu.CodeGenerator" />
+      <option name="METHOD_NAME" value="genCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="guli-microservice-edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guli.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guli.edu.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuliFrameworkParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guli-framework-parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guli.guliframeworkparent.GuliFrameworkParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EduApplication" />
+        <item itemvalue="JUnit.CodeGenerator.genCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="242389f5-4b12-44de-8454-c5479a3fc058" name="Default Changelist" comment="" />
+      <created>1580440320535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580440320535</updated>
+      <workItem from="1580440325898" duration="4047000" />
+      <workItem from="1580462734580" duration="3909000" />
+      <workItem from="1580529196003" duration="8150000" />
+      <workItem from="1580546953637" duration="409000" />
+      <workItem from="1580634418209" duration="964000" />
+      <workItem from="1580712838712" duration="7611000" />
+      <workItem from="1580730378795" duration="742000" />
+      <workItem from="1580731144394" duration="94000" />
+      <workItem from="1580731262641" duration="591000" />
+      <workItem from="1580732844068" duration="2514000" />
+      <workItem from="1580784032730" duration="473000" />
+      <workItem from="1580786878999" duration="232000" />
+      <workItem from="1580787200191" duration="89000" />
+      <workItem from="1580787304706" duration="507000" />
+      <workItem from="1580787845761" duration="162000" />
+      <workItem from="1580795334002" duration="8075000" />
+      <workItem from="1588407361857" duration="604000" />
+      <workItem from="1588431052397" duration="147000" />
+      <workItem from="1588474293254" duration="733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CodeGenerator_genCode - 2020.01.31 at 18h 08m 03s.xml">
+      <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="97" key="#Custom_Plugin_Repositories" timestamp="1580803398557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="334" y="97" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1580803398557" />
+    <state x="334" y="97" key="#HTTP_Proxy" timestamp="1580803395111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="334" y="97" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1580803395111" />
+    <state width="1024" height="479" key="GridCell.Tab.0.bottom" timestamp="1588475038100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588475038100" />
+    <state width="1024" height="479" key="GridCell.Tab.0.center" timestamp="1588475038100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588475038100" />
+    <state width="1024" height="479" key="GridCell.Tab.0.left" timestamp="1588475038099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588475038099" />
+    <state width="1024" height="479" key="GridCell.Tab.0.right" timestamp="1588475038100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588475038100" />
+    <state width="1024" height="479" key="GridCell.Tab.1.bottom" timestamp="1588475038100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588475038100" />
+    <state width="1024" height="479" key="GridCell.Tab.1.center" timestamp="1588475038100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588475038100" />
+    <state width="1024" height="479" key="GridCell.Tab.1.left" timestamp="1588475038100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588475038100" />
+    <state width="1024" height="479" key="GridCell.Tab.1.right" timestamp="1588475038100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="479" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588475038100" />
+    <state x="243" y="81" key="SettingsEditor" timestamp="1588474727138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="243" y="81" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588474727138" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588474311339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588474311339" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>guli-framework-parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
